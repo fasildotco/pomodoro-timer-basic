@@ -1,0 +1,53 @@
+
+#timer {
+  font-size: 72px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.buttons-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+.button-center {
+  display: inline-block;
+}
+
+
+body {
+  background-color: lightblue;
+}
+
+#timer {
+  font-size: 48px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.buttons-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+#startButton {
+
+  color: black;
+}
+
+button.resetButton {
+ 
+  color: white;
+}
